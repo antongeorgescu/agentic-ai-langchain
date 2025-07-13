@@ -41,7 +41,7 @@ This extension demonstrates an agentic AI orchestration system using LangChain a
 
 ---
 
-## Mermaid Diagram
+## Flowchart Diagram
 
 ```mermaid
 flowchart TD
